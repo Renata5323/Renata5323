@@ -3,4 +3,4 @@
 - 👯 I’m looking to collaborate on.
 - 💬 Ask me anything.
 
-![Static Badge](https://img.shields.io/badge/C%2B%2B)
+![Hi](https://img.shields.io/badge/Hi)
