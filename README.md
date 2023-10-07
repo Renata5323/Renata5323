@@ -2,5 +2,3 @@
 - 🌱 I’m currently learning.
 - 👯 I’m looking to collaborate on.
 - 💬 Ask me anything.
-
-![Hi](https://img.shields.io/badge/Hi)
